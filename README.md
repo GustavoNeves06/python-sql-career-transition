@@ -1,1 +1,1 @@
-# python-sql-career-transition
+# python-sql
